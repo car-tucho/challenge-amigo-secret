@@ -12,8 +12,5 @@ Este proyecto está diseñado para para mostrar mis conocimientos en JavaScript 
 ## Instrucciones para ejecutar
 - Puedes visitar mi proyecto en el siguiente enlace: [Challenge Amigo Secreto]() 
 
-## Información del autor
-Creado por [@SinaiYesleny](https://github.com/SinaiYesleny).  Si te gustó el proyecto, ¡No dudes en contactarme! :)
-
 ## Créditos
 Este proyecto fue realizado con base en el Programa ONE (Oracle Next Education) desarrollado por Oracle y Alura.
